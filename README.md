@@ -117,7 +117,7 @@ The dataset includes the following fields:
 
 ##  Dashboard Preview
 
-![Netflix Dashboard]<img width="907" height="508" alt="Capture" src="https://github.com/user-attachments/assets/956649ed-2c88-4cb9-a400-23aea4668b96" />
+<img width="907" height="508" alt="Capture" src="https://github.com/user-attachments/assets/956649ed-2c88-4cb9-a400-23aea4668b96" />
 <img width="953" height="542" alt="Capture4" src="https://github.com/user-attachments/assets/1ce0c014-3464-4bf4-a507-437c34a16abd" />
 
 ##  Business Value
