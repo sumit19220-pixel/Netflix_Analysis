@@ -120,15 +120,6 @@ The dataset includes the following fields:
 ![Netflix Dashboard]<img width="907" height="508" alt="Capture" src="https://github.com/user-attachments/assets/956649ed-2c88-4cb9-a400-23aea4668b96" />
 <img width="953" height="542" alt="Capture4" src="https://github.com/user-attachments/assets/1ce0c014-3464-4bf4-a507-437c34a16abd" />
 
----
-
-| File | Description |
-|---|---|
-| `Netflix_Content_Analysis` |Complete analysis and Report|
-|[Netflix TV Shows and Movies.xlsx](https://github.com/user-attachments/files/30538982/Netflix.TV.Shows.and.Movies.xlsx)| Raw traffic violation dataset |
-
----
-
 ##  Business Value
 
 This dashboard enables stakeholders to:
